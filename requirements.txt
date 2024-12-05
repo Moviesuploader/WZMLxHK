@@ -25,13 +25,12 @@ motor
 mutagen
 markdown
 natsort
-pytz
 pillow
 psutil
 pybase64
 pycountry
 pymongo
-pyrogram==2.0.106
+pyrogram==2.2.11
 python-dotenv
 python-magic
 qbittorrent-api
@@ -43,3 +42,4 @@ tgcrypto
 uvloop
 xattr
 yt-dlp
+pytz
